@@ -9,10 +9,8 @@ This project analyzes data from an Indian online marketplace to provide insights
 3. [Data Model](#data-model)
 4. [Data Requirements](#data-requirements)
 5. [Analysis & Insights](#analysis--insights)
-6. [Setup & Installation](#setup--installation)
-7. [Usage](#usage)
-8. [Results & Findings](#results--findings)
-9. [Contact](#contact)
+6. [Results & Findings](#results--findings)
+
 
 ## Project Overview
 This project aims to generate insights for an Indian online marketplace on customer acquisition, retention, and sales performance. The data spans from **September 2016 to October 2018**, including customer, seller, product, order, payment, and review data.
@@ -45,5 +43,12 @@ Data cleaning and preparation are performed to handle missing values, outliers, 
 - **Cross-Selling**: Top 10 frequently purchased product combinations.
 - **Payment Behavior Analysis**: Customer payment methods and preferred channels.
 - **Customer Satisfaction Analysis**: Top and bottom-rated categories and products.
+
+## Results & Findings
+- **Revenue Metrics**: Seasonal and monthly revenue patterns.
+- **Customer Trends**: Insights on customer acquisition, retention, and purchase patterns.
+- **Product Insights**: Popular products and categories.
+- **Payment Insights**: Preferred payment channels.
+- **Satisfaction Analysis**: Ratings by category and product.
 
 
